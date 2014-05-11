@@ -6,6 +6,12 @@ using System.Threading.Tasks;
 
 namespace Delegate
 {
+    /// <summary>
+    /// hi test
+    /// </summary>
+    /// <param name="a"></param>
+    /// <param name="b"></param>
+    /// <returns></returns>
     public delegate double Delegate_Prod(int a, int b);
 
     //public delegate TResult Func<in T, out TResult>(
