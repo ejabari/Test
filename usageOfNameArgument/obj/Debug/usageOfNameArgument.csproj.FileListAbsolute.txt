@@ -1,0 +1,6 @@
+d:\visual studio 2012\Projects\CSharpSamples\usageOfNameArgument\bin\Debug\usageOfNameArgument.exe.config
+d:\visual studio 2012\Projects\CSharpSamples\usageOfNameArgument\bin\Debug\usageOfNameArgument.exe
+d:\visual studio 2012\Projects\CSharpSamples\usageOfNameArgument\bin\Debug\usageOfNameArgument.pdb
+d:\visual studio 2012\Projects\CSharpSamples\usageOfNameArgument\obj\Debug\usageOfNameArgument.csprojResolveAssemblyReference.cache
+d:\visual studio 2012\Projects\CSharpSamples\usageOfNameArgument\obj\Debug\usageOfNameArgument.exe
+d:\visual studio 2012\Projects\CSharpSamples\usageOfNameArgument\obj\Debug\usageOfNameArgument.pdb

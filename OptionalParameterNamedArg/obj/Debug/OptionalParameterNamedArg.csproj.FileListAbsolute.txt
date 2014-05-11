@@ -1,0 +1,5 @@
+d:\visual studio 2012\Projects\CSharpSamples\OptionalParameterNamedArg\bin\Debug\OptionalParameterNamedArg.dll
+d:\visual studio 2012\Projects\CSharpSamples\OptionalParameterNamedArg\bin\Debug\OptionalParameterNamedArg.pdb
+d:\visual studio 2012\Projects\CSharpSamples\OptionalParameterNamedArg\obj\Debug\OptionalParameterNamedArg.csprojResolveAssemblyReference.cache
+d:\visual studio 2012\Projects\CSharpSamples\OptionalParameterNamedArg\obj\Debug\OptionalParameterNamedArg.dll
+d:\visual studio 2012\Projects\CSharpSamples\OptionalParameterNamedArg\obj\Debug\OptionalParameterNamedArg.pdb

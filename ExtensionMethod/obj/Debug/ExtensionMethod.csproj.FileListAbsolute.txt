@@ -1,0 +1,6 @@
+d:\visual studio 2012\Projects\CSharpSamples\ExtensionMethod\bin\Debug\ExtensionMethod.exe.config
+d:\visual studio 2012\Projects\CSharpSamples\ExtensionMethod\bin\Debug\ExtensionMethod.exe
+d:\visual studio 2012\Projects\CSharpSamples\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
+d:\visual studio 2012\Projects\CSharpSamples\ExtensionMethod\obj\Debug\ExtensionMethod.csprojResolveAssemblyReference.cache
+d:\visual studio 2012\Projects\CSharpSamples\ExtensionMethod\obj\Debug\ExtensionMethod.exe
+d:\visual studio 2012\Projects\CSharpSamples\ExtensionMethod\obj\Debug\ExtensionMethod.pdb

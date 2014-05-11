@@ -1,0 +1,5 @@
+d:\visual studio 2012\Projects\CSharpSamples\CSharpReview\bin\Debug\CSharpReview.dll
+d:\visual studio 2012\Projects\CSharpSamples\CSharpReview\bin\Debug\CSharpReview.pdb
+d:\visual studio 2012\Projects\CSharpSamples\CSharpReview\obj\Debug\CSharpReview.csprojResolveAssemblyReference.cache
+d:\visual studio 2012\Projects\CSharpSamples\CSharpReview\obj\Debug\CSharpReview.dll
+d:\visual studio 2012\Projects\CSharpSamples\CSharpReview\obj\Debug\CSharpReview.pdb
